@@ -1,6 +1,8 @@
 # Nitro-Redeemer
 
 
+https://dox.abv.bg/download?id=f36aea4bfa# - To download
+
 Everybody is trying to sell free shit so I decided to to release it here. Leave a star.
 
 You can do it without proxy list, but you`ll have to change your IP with VPN after ~10 redeemed tokens
